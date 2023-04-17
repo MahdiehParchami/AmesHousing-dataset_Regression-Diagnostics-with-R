@@ -45,5 +45,5 @@ multicollinearity problem. I saw that the residuals in this regression model are
 autocorrelated. to improve my model, I used two approaches, found the unusual observation, 
 and then removed them, and used the transformation values approach. by using these 
 methods, the Adjusted R-squared increased to 85%. Finally, I applied all subsets 
-regression method, and found that my model with 6 predictors performs best
+regression method, and found that my model with 6 predictors performs best.
 
