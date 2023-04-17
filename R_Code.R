@@ -1,6 +1,6 @@
 
 
-setwd("E:/Mahdieh_CourseUniversity/ALY6015/Module_1/R")
+setwd("E:/R/")
 
 # install.packages("readr")
 library(readr)
